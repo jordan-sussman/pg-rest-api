@@ -1,9 +1,13 @@
+## READ ME
+
 **PG-REST-API** is a REST API built with JavaScript and Node for PostgreSQL as a framework for a todo list. The database used ("todo_database") includes an ID column ("todo_id") and a DESCRIPTION column ("description").
 
 **API**
+<br>
 /todos
 - ```GET``` : Get all todos
 - ```POST``` : Create a new todo
+
 /todos/:todo_id
 - ```GET``` : Get a todo
 - ```PUT``` : Update a todo
