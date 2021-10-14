@@ -25,7 +25,7 @@
 ```
 - Open your HTTP Client! To start, GET a list of all todos via http://localhost:9876/todos
 - "\c todo_database" in terminal to connect with the PostgreSQL database
-- "SELECT * FROM todo" in terminal to view todo_database tables
+- "SELECT * FROM todo;" in terminal to view todo_database tables
 ```
 
 **Built with**:
